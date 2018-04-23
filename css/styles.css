@@ -27,6 +27,17 @@ p {
   float: left;
   width: 25%
 }
+
+.projects{
+  float:left;
+  width: 100%;
+}
+
 .row{
   padding-bottom: 200px;
+}
+
+.link{
+  float:left;
+  widthe: 100%;
 }
