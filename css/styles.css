@@ -22,3 +22,11 @@ body {
 p {
   color: white;
 }
+
+.column {
+  float: left;
+  width: 25%
+}
+.row{
+  padding-bottom: 200px;
+}
